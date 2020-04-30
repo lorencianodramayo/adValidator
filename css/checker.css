@@ -1,0 +1,44 @@
+sup {
+    position: relative;
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline;
+    color: #e94576;
+    top: -0.2em !important;
+    margin-left: 5px;
+}
+
+.row-striped:nth-of-type(odd) {
+    background-color: #efefef;
+}
+
+.row-striped:nth-of-type(even) {
+    background-color: #ffffff;
+}
+
+.fit-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.text-font>span {
+    color: #e94576;
+    font-family: Cabin;
+}
+
+.listOfErrors {
+    padding-left: 10px;
+}
+
+.listOfErrors>li>b {
+    font-family: Cabin;
+    color: #e94576;
+}
+
+.tempImages{
+    display: none;
+}
+
+.no-border{
+    border: 0px !important;
+}
