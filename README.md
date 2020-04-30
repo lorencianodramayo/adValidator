@@ -2,4 +2,5 @@
 
 How to use:
 
-- Drag 1 zip file only.
+- File type: 1 .ZIP file
+- Supported Animation: GSAP
